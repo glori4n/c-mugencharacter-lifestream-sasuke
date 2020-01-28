@@ -1,0 +1,27 @@
+;***************************************************************************;
+;******************* Created in Fighter Factory Ultimate *******************;
+;*******************     http://virtualltek.mgbr.net     *******************;
+;***************************************************************************;
+
+[Info]
+name = "Sasuke"
+displayname = "-Life Stream- Sasuke"
+versiondate = 12/07/2009
+mugenversion = 
+author = "0xTidusx0 (Life Stream)"
+pal.defaults = 6,3,4,2
+
+[Files]
+sprite = Life_Stream_Sasuke.sff
+anim = Life_Stream_Sasuke.air
+sound = Life_Stream_Sasuke.snd
+cmd = Life_Stream_Sasuke.cmd
+cns = Life_Stream_Sasuke.cns
+stcommon = common1.cns
+st = Life_Stream_Sasuke.cns
+st1 = clone.cns
+pal1 = Life_Stream_Sasuke.act
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 

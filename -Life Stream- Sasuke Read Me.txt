@@ -1,0 +1,105 @@
+ ________________________________
+|Made by: Life_Stream(0xTidusx0) |
+|Email:lucasmuniz_79@hotmail.com |
+|                                |
+|     !Any questions mail me     |
+|________________________________|
+
+=====================================================
+================= Character Data ====================
+=====================================================
+
+Character Name: -Life Stream- Sasuke
+
+Sprites: Life_Stream(0xTidusx0)
+
+Codes: Life_Stream(0xTidusx0)
+
+Version: 1.0
+Release Date: 14/11/2009
+
+=====================================================
+--------------- Sasuke's Background -----------------
+=====================================================
+
+Sasuke's early childhood, as told over the course of Naruto manga volume twenty-five, was 
+spent living in the shadow of his older brother, Itachi Uchiha, a natural prodigy of the 
+Uchiha clan whom Sasuke looked up to and admired. In an effort to win some recognition for 
+himself, Sasuke trained diligently to win some of his parents' attention, though he was 
+never able to surpass the milestones set in place by his brother, who would be the only 
+one to acknowledge Sasuke's accomplishments. In time, Itachi began to distance
+himself from the clan and fell out of his family's confidence, which consequently began 
+to look to Sasuke as the new future for the clan.
+
+Soon after Sasuke started to be accepted into his family, he returned home one day to 
+find the streets littered with the corpses of the Uchiha clan. Upon rushing home, Sasuke 
+found Itachi standing over his parents's corpses. As Sasuke tried to flee, Itachi went on 
+to explain that he had never loved his little brother. Claiming that Sasuke was not 
+worth killing, Itachi encouraged him to get stronger by living a life of hate and anger 
+towards him, with his sole purpose being to avenge the clan. Itachi left, and in the 
+absence of a loving family Sasuke agreed to do as instructed, dedicating his life to 
+killing Itachi. Years later, in Part II of the series, Sasuke is shown to have some
+doubts about the events of that night. It is not until after Itachi's death that he learns
+the truth surrounding the massacre of the Uchiha: that it was all done on command by the 
+village, and that Itachi had left him alive because he could not bring himself to kill him.
+(From Wikipedia xD)
+
+==========================================================
+==================== Basic Moves =========================
+==========================================================
+
+(While getting hit) a - Kawarmi
+a - Punch & Kick combo
+Down, a - Kick up
+b - Kunai Throw
+x - 2 Hit Kick Combo
+y - Dash
+z - Kage Bunshin
+a+x - Chakra Charge
+
+==========================================================
+==================== Special Moves =======================
+==========================================================
+
+c - Chargeble Chidori
+Down + Foward, x - Sharingan
+HoldDown + b - ShiShi Rendan
+Down, c - Goukakyuu no Jutsu
+(while in Air) c - Housenka no Jutsu
+
+==========================================================
+==================== Hyper Moves =========================
+==========================================================
+Down, x - Fire Dragon (Life_Stream's special xD)
+Down, c - Rage Chidori
+
+==========================================================
+======================= To Do ============================
+==========================================================
+
+-Palletes
+-Ryuka no Jutsu
+-Rasendori
+-Improved Sprites
+-Itachi's Words
+-Improved Sharingan Mode
+
+=========
+=Credits=
+=========
+
+-Me: I Rule.
+
+-Elecbyte: for the wonderful M.U.G.E.N engine.
+
+-Masashi Kishimoto: for creating the mighty Uchiha clan and Sasuke.
+
+-Markx2475: My tester! and Special Friend!
+
+-My Soda: For keeping me going!
+
+-People At mugencharacters.ucoz: they rule! (Specialy you buy! ^^)
+
+-Wikipedia: for the background.
+
+-You: For Playing with my character!

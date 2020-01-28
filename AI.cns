@@ -1,0 +1,36 @@
+[Statedef -3]
+
+;This controller plays a sound from a jump, or
+;from back-dash.
+[State -3, Landing Sound]
+type = PlaySnd
+triggerall = Time = 1
+trigger1 = stateno = 52 ;Jump land
+trigger2 = stateno = 106 ;Run-back land
+value = 52, 0
+
+;---------------------------------------------------------
+;AI Code
+;---------------------------------------------------------
+
+;C-Sasuke Guarding
+[state -3,19]
+type = changestate
+triggerall = var(59) = 1 && roundstate = 2
+trigger1 = ctrl && statetype = S
+trigger1 = inguarddist && random < 30
+value = 130
+
+[state -3,20]
+type = changestate
+triggerall = var(59) = 1 && roundstate = 2
+trigger1 = ctrl && statetype = C
+trigger1 = inguarddist && random < 30
+value = 131
+
+[state -3,21]
+type = changestate
+triggerall = var(59) = 1 && roundstate = 2
+trigger1 = ctrl && statetype = A
+trigger1 = inguarddist && random < 30
+value = 132
